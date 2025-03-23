@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anton\\Documents\\GitHub\\XamarinForms\\FinanceManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40C65F85-068A-43D5-85A5-097A8E49F1DA}|FinanceManager\\FinanceManager\\FinanceManager.csproj|c:\\users\\anton\\documents\\github\\xamarinforms\\financemanager\\financemanager\\financemanager\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{40C65F85-068A-43D5-85A5-097A8E49F1DA}|FinanceManager\\FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\financemanager\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\anton\\Documents\\GitHub\\XamarinForms\\FinanceManager\\FinanceManager\\FinanceManager\\MainPage.xaml",
+              "RelativeDocumentMoniker": "FinanceManager\\FinanceManager\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\anton\\Documents\\GitHub\\XamarinForms\\FinanceManager\\FinanceManager\\FinanceManager\\MainPage.xaml",
+              "RelativeToolTip": "FinanceManager\\FinanceManager\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-23T07:51:44.419Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

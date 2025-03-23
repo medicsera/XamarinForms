@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinanceManager.Android", "FinanceManager\FinanceManager.Android\FinanceManager.Android.csproj", "{1D16AA66-422E-43BA-9A70-51DC764EA47A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinanceManager.iOS", "FinanceManager\FinanceManager.iOS\FinanceManager.iOS.csproj", "{1152CF89-7368-41D3-921C-6C850B5809F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinanceManager", "FinanceManager\FinanceManager\FinanceManager.csproj", "{40C65F85-068A-43D5-85A5-097A8E49F1DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D16AA66-422E-43BA-9A70-51DC764EA47A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D16AA66-422E-43BA-9A70-51DC764EA47A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D16AA66-422E-43BA-9A70-51DC764EA47A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{1D16AA66-422E-43BA-9A70-51DC764EA47A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D16AA66-422E-43BA-9A70-51DC764EA47A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D16AA66-422E-43BA-9A70-51DC764EA47A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{1152CF89-7368-41D3-921C-6C850B5809F6}.Debug|Any CPU.ActiveCfg = Debug|iPhone
+		{1152CF89-7368-41D3-921C-6C850B5809F6}.Debug|Any CPU.Build.0 = Debug|iPhone
+		{1152CF89-7368-41D3-921C-6C850B5809F6}.Debug|Any CPU.Deploy.0 = Debug|iPhone
+		{1152CF89-7368-41D3-921C-6C850B5809F6}.Release|Any CPU.ActiveCfg = Release|iPhoneSimulator
+		{1152CF89-7368-41D3-921C-6C850B5809F6}.Release|Any CPU.Build.0 = Release|iPhoneSimulator
+		{1152CF89-7368-41D3-921C-6C850B5809F6}.Release|Any CPU.Deploy.0 = Release|iPhoneSimulator
+		{40C65F85-068A-43D5-85A5-097A8E49F1DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40C65F85-068A-43D5-85A5-097A8E49F1DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40C65F85-068A-43D5-85A5-097A8E49F1DA}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{40C65F85-068A-43D5-85A5-097A8E49F1DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40C65F85-068A-43D5-85A5-097A8E49F1DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40C65F85-068A-43D5-85A5-097A8E49F1DA}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D630A51-2E5C-4284-BF1C-019C7644A838}
+	EndGlobalSection
+EndGlobal
