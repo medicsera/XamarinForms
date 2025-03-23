@@ -1,2 +1,2 @@
 # to change language of repo from LLVM to C#
-*.rb linguist-language=С#
+*.cs linguist-language=С#
