@@ -1,2 +1,3 @@
 # to change language of repo from LLVM to C#
+*.llvm linguist-detectable=false
 *.cs linguist-language=С#
