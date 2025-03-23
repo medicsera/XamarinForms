@@ -8,7 +8,7 @@ using Xamarin.Forms;
 
 namespace FinanceManager
 {
-    public partial class MainPage : ContentPage
+    public partial class MainPage : FlyoutPage
     {
         public MainPage()
         {
