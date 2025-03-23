@@ -1,2 +1,4 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# to change language of repo from LLVM to C#
+*.java linguist-detectable=false
+*.ll linguist-detectable=false
+*.rb linguist-language=С#
