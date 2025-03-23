@@ -1,2 +1,2 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# to change language of repo from LLVM to C#
+*.js linguist-language=С#
