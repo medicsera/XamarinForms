@@ -636,3 +636,6 @@ C:\Users\anton\Documents\GitHub\XamarinForms\FinanceManager\FinanceManager\Finan
 C:\Users\anton\Documents\GitHub\XamarinForms\FinanceManager\FinanceManager\FinanceManager.Android\obj\Debug\130\stamp\_GenerateJavaStubs.stamp
 C:\Users\anton\Documents\GitHub\XamarinForms\FinanceManager\FinanceManager\FinanceManager.Android\obj\Debug\130\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\anton\Documents\GitHub\XamarinForms\FinanceManager\FinanceManager\FinanceManager.Android\obj\Debug\130\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\anton\Documents\GitHub\XamarinForms\FinanceManager\FinanceManager\FinanceManager.Android\obj\Debug\130\res\drawable\incomepage.png
+C:\Users\anton\Documents\GitHub\XamarinForms\FinanceManager\FinanceManager\FinanceManager.Android\obj\Debug\130\res\drawable\homepage.png
+C:\Users\anton\Documents\GitHub\XamarinForms\FinanceManager\FinanceManager\FinanceManager.Android\obj\Debug\130\res\drawable\expensespage.png

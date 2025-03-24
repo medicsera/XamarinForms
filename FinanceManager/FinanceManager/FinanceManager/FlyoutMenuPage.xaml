@@ -5,11 +5,15 @@
              x:Class="FinanceManager.FlyoutMenupage"
              Title="FlyoutMenu">
      <StackLayout>
-        <ListView>
+        <ListView x:Name="ListView" x:FieldModifier="public">
             <ListView.ItemsSource>
                 <x:Array Type="{x:Type local:FlyoutItemPage}">
-                    <local:FlyoutItemPage Title="Главная"  IconSource="" TargetPage="{x:Type local:HomePage}"/>
-                    <local:FlyoutItemPage Title="Доходы" IconSource="" TargetPage="{x:Type local:IncomePage}"/>
+                    <local:FlyoutItemPage Title="Главная"  IconSource="homepage.png"  TargetPage="{x:Type local:HomePage}"/>
+                    <local:FlyoutItemPage Title="Доходы" IconSource="incomepage.png" TargetPage="{x:Type local:IncomePage}"/>
+                    <local:FlyoutItemPage Title="Расходы" IconSource="expensespage.png" TargetPage="{x:Type local:ExpensesPage}"/>
+                    <local:FlyoutItemPage Title="Цели" IconSource="" TargetPage="{x:Type local:PurposesPage}"/>
+                    <local:FlyoutItemPage Title="Аналитика" IconSource="" TargetPage="{x:Type local:AnalyticsPage}"/>
+                    <local:FlyoutItemPage Title="Напоминания и достижения" IconSource="" TargetPage="{x:Type local:RemindersPage}"/>
                 </x:Array>
             </ListView.ItemsSource>
             <ListView.ItemTemplate>

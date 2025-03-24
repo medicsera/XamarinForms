@@ -13,6 +13,18 @@ namespace FinanceManager
         public MainPage()
         {
             InitializeComponent();
+            flyout.ListView.ItemSelected += OnSelectedItem;
+        }
+
+        private void OnSelectedItem(object sender, SelectedItemChangedEventArgs e)
+        {
+            var item = e.SelectedItem as FlyoutItemPage;
+            if (item != null)
+            {
+                Detail = new NavigationPage((Page)Activator.CreateInstance(item.TargetPage));
+                flyout.ListView.SelectedItem = null;
+                IsPresented = false;
+            }
         }
     }
 }
