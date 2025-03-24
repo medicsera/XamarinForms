@@ -1,13 +1,29 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             Title="Главная"
+             xmlns:microcharts="clr-namespace:Microcharts.Forms;assembly=Microcharts.Forms"
+             Title="Главная" 
              x:Class="FinanceManager.HomePage">
     <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+        <StackLayout BackgroundColor="#4968FF">
+            <Label Margin="0,20,0,0" Text="Ваша цель" TextColor="White" FontAttributes="Italic"  FontSize="35" HorizontalOptions="Center" />
+            <Grid Margin="20" >
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="270"/>
+                </Grid.ColumnDefinitions>
+                <BoxView Grid.Column="0" HeightRequest="70" BackgroundColor="#ADB0E3" CornerRadius="20"/>
+                <Label Grid.Column="0" Text="Купить авто" TextColor="Black" FontSize="25"  HorizontalOptions="Center" VerticalOptions="Center" FontAttributes="Italic"/>
+
+                <Label x:Name="progress_bar_main_expence_label" Text="70" Grid.Column="1" HorizontalOptions="Center" VerticalOptions="Center" FontSize="20" FontAttributes="Bold"/>
+            </Grid>
+            <Grid Margin="40,-15">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="130"/>
+                </Grid.ColumnDefinitions>
+                <Label Grid.Column="0" Text="Осталось" TextColor="White" FontSize="27" />
+                <Label x:Name="main_expence_remainder" Grid.Column="1" Text="60000 руб" TextColor="White" FontSize="27"/>
+            </Grid>
+            <Label Margin="0,20" HorizontalOptions="Center" Text="Доходы" TextColor="White" FontSize="35" FontAttributes="Italic"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

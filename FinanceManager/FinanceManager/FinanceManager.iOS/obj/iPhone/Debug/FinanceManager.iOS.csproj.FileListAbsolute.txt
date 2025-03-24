@@ -61,3 +61,9 @@ C:\Users\anton\Documents\GitHub\XamarinForms\FinanceManager\FinanceManager\Finan
 C:\Users\anton\Documents\GitHub\XamarinForms\FinanceManager\FinanceManager\FinanceManager.iOS\obj\iPhone\Debug\FinanceM.671BB8CD.Up2Date
 C:\Users\anton\Documents\GitHub\XamarinForms\FinanceManager\FinanceManager\FinanceManager.iOS\obj\iPhone\Debug\FinanceManager.iOS.exe
 C:\Users\anton\Documents\GitHub\XamarinForms\FinanceManager\FinanceManager\FinanceManager.iOS\obj\iPhone\Debug\FinanceManager.iOS.pdb
+C:\Users\anton\Documents\GitHub\XamarinForms\FinanceManager\FinanceManager\FinanceManager.iOS\bin\iPhone\Debug\Microcharts.dll
+C:\Users\anton\Documents\GitHub\XamarinForms\FinanceManager\FinanceManager\FinanceManager.iOS\bin\iPhone\Debug\Microcharts.iOS.dll
+C:\Users\anton\Documents\GitHub\XamarinForms\FinanceManager\FinanceManager\FinanceManager.iOS\bin\iPhone\Debug\Microcharts.Forms.dll
+C:\Users\anton\Documents\GitHub\XamarinForms\FinanceManager\FinanceManager\FinanceManager.iOS\bin\iPhone\Debug\SkiaSharp.dll
+C:\Users\anton\Documents\GitHub\XamarinForms\FinanceManager\FinanceManager\FinanceManager.iOS\bin\iPhone\Debug\SkiaSharp.Views.iOS.dll
+C:\Users\anton\Documents\GitHub\XamarinForms\FinanceManager\FinanceManager\FinanceManager.iOS\bin\iPhone\Debug\SkiaSharp.Views.Forms.dll

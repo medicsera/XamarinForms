@@ -15,6 +15,7 @@ namespace FinanceManager
 		public HomePage ()
 		{
 			InitializeComponent ();
+			
 		}
 	}
 }
