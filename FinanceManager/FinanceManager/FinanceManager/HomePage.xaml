@@ -8,28 +8,36 @@
     <ContentPage.Content>
         <ScrollView>
             <StackLayout BackgroundColor="#4968FF">
-            <Label Margin="0,20,0,0" Text="Ваша цель" TextColor="White" FontAttributes="Italic"  FontSize="35" HorizontalOptions="Center" />
-            <Grid Margin="20,0,0,30" >
-                <Grid.ColumnDefinitions>
-                    <ColumnDefinition Width="280"/>
-                </Grid.ColumnDefinitions>
-                <BoxView Grid.Column="0"  HeightRequest="100" BackgroundColor="#ADB0E3" CornerRadius="20"/>
-                <Label Grid.Column="0" Text="Купить авто" TextColor="Black" FontSize="25"  HorizontalOptions="Center" VerticalOptions="Center" FontAttributes="Italic"/>
-                <control:ProgressRing x:Name="progress_bar_main_expence" RingThickness="10" HeightRequest="100" RingBaseColor="White" RingProgressColor="#0EF316" Grid.Column="1" Progress="0.7"/>
-                <Label x:Name="progress_bar_main_expence_label" Text="70" Grid.Column="1" HorizontalOptions="Center" VerticalOptions="Center" FontSize="25" FontAttributes="Bold"/>
-            </Grid>
-            <Grid Margin="40,-25">
-                <Grid.ColumnDefinitions>
-                    <ColumnDefinition Width="130"/>
-                </Grid.ColumnDefinitions>
-                <Label Grid.Column="0" Text="Осталось" TextColor="White" FontSize="27" />
-                <Label x:Name="main_expence_remainder" Grid.Column="1" Text="60000 руб" TextColor="#00FFEA" FontSize="27"/>
-            </Grid>
-            <Label Margin="0,25,0,30" HorizontalOptions="Center" Text="Доходы" TextColor="White" FontSize="35" FontAttributes="Italic"/>
-            <microcharts:ChartView x:Name="linechart_income" HeightRequest="190" />
-            <Label HorizontalOptions="Center" Text="Расходы" Margin="0,0,0,30" TextColor="White" FontSize="35" FontAttributes="Italic"/>
-            <microcharts:ChartView x:Name="linechart_expenses" HeightRequest="190" />
-        </StackLayout>
+                <Label Margin="0,20,0,0" Text="Ваша цель" TextColor="White" FontAttributes="Italic"  FontSize="35" HorizontalOptions="Center" />
+                <Grid Margin="20,0,0,30" >
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="280"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="70"/>
+                    </Grid.RowDefinitions>
+                    <BoxView Grid.Column="0"  HeightRequest="70" BackgroundColor="#ADB0E3" CornerRadius="20"/>
+                    <Label Margin="20" Grid.Column="0" Text="Купить авто" TextColor="Black" FontSize="21"   VerticalOptions="Center" FontAttributes="Italic"/>
+                    <control:ProgressRing x:Name="progress_bar_main_expence" RingThickness="10" HeightRequest="100" RingBaseColor="White" RingProgressColor="#0EF316" Grid.Column="1" Progress="0.7"/>
+                    <Label x:Name="progress_bar_main_expence_label" Text="70" Grid.Column="1" HorizontalOptions="Center" VerticalOptions="Center" FontSize="25" FontAttributes="Bold"/>
+                </Grid>
+                <Grid Margin="40,-25">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="130"/>
+                    </Grid.ColumnDefinitions>
+                    <Label  Grid.Column="0" Text="Осталось" TextColor="White" FontSize="27" />
+                    <Label x:Name="main_expence_remainder" Grid.Column="1" Text="60000 руб" TextColor="#00FFEA" FontSize="27"/>
+                </Grid>
+                <Label Margin="0,25,0,0" HorizontalOptions="Center" Text="Доходы" TextColor="White" FontSize="35" FontAttributes="Italic"/>
+                <Frame Margin="20" Padding="3" CornerRadius="10" BackgroundColor="Transparent" BorderColor="DarkBlue">
+                    <microcharts:ChartView Margin="0,20,0,-1" Grid.Column="0" x:Name="linechart_income" HeightRequest="190" />
+                </Frame >
+                <Label HorizontalOptions="Center" Text="Расходы" TextColor="White" FontSize="35" FontAttributes="Italic"/>
+                <Frame Margin="20" Padding="3" CornerRadius="10" BackgroundColor="Transparent" BorderColor="DarkBlue">
+                    <microcharts:ChartView Margin="0,20,0,-1" x:Name="linechart_expenses" HeightRequest="190" />
+                </Frame >
+                <Label HorizontalOptions="Center" Text="Аналитика" Margin="0,0,0,30" TextColor="White" FontSize="35" FontAttributes="Italic"/>
+            </StackLayout>
         </ScrollView>
     </ContentPage.Content>
 </ContentPage>

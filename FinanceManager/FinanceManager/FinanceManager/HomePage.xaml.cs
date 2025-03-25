@@ -72,7 +72,8 @@ namespace FinanceManager
                 BackgroundColor = SKColor.Parse("#4968FF"),
                 LabelColor = SKColor.Parse("#FFFFFF"),
                 LineAreaAlpha = 0,
-                Margin = 30
+                Margin = 30,
+                
             };
         }
 

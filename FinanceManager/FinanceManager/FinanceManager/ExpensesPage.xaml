@@ -5,10 +5,8 @@
              x:Class="FinanceManager.ExpensesPage"
              Title="Расходы">
     <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+        <StackLayout BackgroundColor="#4968FF">
+            
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

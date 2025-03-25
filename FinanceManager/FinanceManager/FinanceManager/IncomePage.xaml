@@ -4,10 +4,47 @@
              Title="Доходы"
              x:Class="FinanceManager.IncomePage">
     <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+        <StackLayout BackgroundColor="#4968FF">
+            <Label Margin="0,20,0,0" Text="Список доходов" TextColor="White" FontAttributes="Italic" FontSize="30" HorizontalOptions="Center"/>
+            <Frame 
+                BackgroundColor="#ADB0E3"
+                BorderColor="Transparent"
+                CornerRadius="20"
+                Padding="15,10"
+                HasShadow="False"
+                HorizontalOptions="Start"
+                Margin="20">
+                
+
+                <StackLayout Orientation="Horizontal" Spacing="10" HeightRequest="50" WidthRequest="300" BackgroundColor="#ADB0E3">
+                    <Label 
+                        Text="Добавить доход         "
+                        TextColor="Black"
+                        FontSize="21"
+                        VerticalOptions="Center"
+                        Margin="10"/>
+                    <Frame
+                        BackgroundColor="#AED1FF"
+                        CornerRadius="25"
+                        WidthRequest="50"
+                        HeightRequest="50"
+                        Padding="0"
+                        VerticalOptions="Center">
+                        <Label 
+                            Text="+" 
+                            FontSize="25"
+                            TextColor="Black"
+                            HorizontalOptions="Center"
+                            VerticalOptions="Center"
+                            />
+                    </Frame>
+                    
+                </StackLayout>
+                <Frame.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="OnAddIncomeClicked"/>
+                </Frame.GestureRecognizers>
+            </Frame>
+            
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
