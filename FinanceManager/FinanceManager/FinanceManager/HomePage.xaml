@@ -2,6 +2,7 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:microcharts="clr-namespace:Microcharts.Forms;assembly=Microcharts.Forms"
+             xmlns:control="clr-namespace:ProgressRingControl.Forms.Plugin;assembly=ProgressRing.Forms.Plugin"
              Title="Главная" 
              x:Class="FinanceManager.HomePage">
     <ContentPage.Content>
@@ -11,9 +12,9 @@
                 <Grid.ColumnDefinitions>
                     <ColumnDefinition Width="270"/>
                 </Grid.ColumnDefinitions>
-                <BoxView Grid.Column="0" HeightRequest="70" BackgroundColor="#ADB0E3" CornerRadius="20"/>
+                <BoxView Grid.Column="0"  HeightRequest="100" BackgroundColor="#ADB0E3" CornerRadius="20"/>
                 <Label Grid.Column="0" Text="Купить авто" TextColor="Black" FontSize="25"  HorizontalOptions="Center" VerticalOptions="Center" FontAttributes="Italic"/>
-
+                <control:ProgressRing x:Name="progress_bar_main_expence"  HeightRequest="100" RingBaseColor="White" RingProgressColor="#0EF316" Grid.Column="1" Progress="0.7"/>
                 <Label x:Name="progress_bar_main_expence_label" Text="70" Grid.Column="1" HorizontalOptions="Center" VerticalOptions="Center" FontSize="20" FontAttributes="Bold"/>
             </Grid>
             <Grid Margin="40,-15">
@@ -21,9 +22,10 @@
                     <ColumnDefinition Width="130"/>
                 </Grid.ColumnDefinitions>
                 <Label Grid.Column="0" Text="Осталось" TextColor="White" FontSize="27" />
-                <Label x:Name="main_expence_remainder" Grid.Column="1" Text="60000 руб" TextColor="White" FontSize="27"/>
+                <Label x:Name="main_expence_remainder" Grid.Column="1" Text="60000 руб" TextColor="#00FFEA" FontSize="27"/>
             </Grid>
-            <Label Margin="0,20" HorizontalOptions="Center" Text="Доходы" TextColor="White" FontSize="35" FontAttributes="Italic"/>
+            <Label Margin="0,20,0,20" HorizontalOptions="Center" Text="Доходы" TextColor="White" FontSize="35" FontAttributes="Italic"/>
+            <microcharts:ChartView x:Name="linechart_income" HeightRequest="170" />
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

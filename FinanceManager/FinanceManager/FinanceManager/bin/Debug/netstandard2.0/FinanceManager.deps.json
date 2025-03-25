@@ -12,6 +12,7 @@
           "Microcharts": "0.9.5.9",
           "Microcharts.Forms": "0.9.5.9",
           "NETStandard.Library": "2.0.3",
+          "Xam.Plugins.Forms.ProgressRing": "0.1.2",
           "Xamarin.Essentials": "1.7.0",
           "Xamarin.Forms": "5.0.0.2196"
         },
@@ -111,6 +112,17 @@
         }
       },
       "System.ValueTuple/4.5.0": {},
+      "Xam.Plugins.Forms.ProgressRing/0.1.2": {
+        "dependencies": {
+          "Xamarin.Forms": "5.0.0.2196"
+        },
+        "runtime": {
+          "lib/portable-net45+wp80+win8+wpa81/ProgressRing.Forms.Plugin.dll": {
+            "assemblyVersion": "1.0.6460.16364",
+            "fileVersion": "1.0.6460.16364"
+          }
+        }
+      },
       "Xamarin.Essentials/1.7.0": {
         "dependencies": {
           "System.Numerics.Vectors": "4.5.0"
@@ -222,6 +234,13 @@
       "sha512": "sha512-okurQJO6NRE/apDIP23ajJ0hpiNmJ+f0BwOlB/cSqTLQlw5upkf+5+96+iG2Jw40G1fCVCyPz/FhIABUjMR+RQ==",
       "path": "system.valuetuple/4.5.0",
       "hashPath": "system.valuetuple.4.5.0.nupkg.sha512"
+    },
+    "Xam.Plugins.Forms.ProgressRing/0.1.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-TqxIQo9uiq0EXPSIet8eouoF0Vs1Al30Urd++LXkH2lCQPMJzr5aCrwnCrTi9/4V229njCgUw53+Au6xWbZwHg==",
+      "path": "xam.plugins.forms.progressring/0.1.2",
+      "hashPath": "xam.plugins.forms.progressring.0.1.2.nupkg.sha512"
     },
     "Xamarin.Essentials/1.7.0": {
       "type": "package",

@@ -121,6 +121,20 @@
           "lib/MonoAndroid10/_._": {}
         }
       },
+      "Xam.Plugins.Forms.ProgressRing/0.1.2": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Forms": "2.3.4.247"
+        },
+        "compile": {
+          "lib/MonoAndroid10/ProgressRing.Forms.Plugin.Android.dll": {},
+          "lib/MonoAndroid10/ProgressRing.Forms.Plugin.dll": {}
+        },
+        "runtime": {
+          "lib/MonoAndroid10/ProgressRing.Forms.Plugin.Android.dll": {},
+          "lib/MonoAndroid10/ProgressRing.Forms.Plugin.dll": {}
+        }
+      },
       "Xamarin.AndroidX.Activity/1.2.4.1": {
         "type": "package",
         "dependencies": {
@@ -1892,6 +1906,7 @@
         "dependencies": {
           "Microcharts": "0.9.5.9",
           "Microcharts.Forms": "0.9.5.9",
+          "Xam.Plugins.Forms.ProgressRing": "0.1.2",
           "Xamarin.Essentials": "1.7.0",
           "Xamarin.Forms": "5.0.0.2196"
         },
@@ -2181,6 +2196,22 @@
         "system.valuetuple.nuspec",
         "useSharedDesignerContext.txt",
         "version.txt"
+      ]
+    },
+    "Xam.Plugins.Forms.ProgressRing/0.1.2": {
+      "sha512": "TqxIQo9uiq0EXPSIet8eouoF0Vs1Al30Urd++LXkH2lCQPMJzr5aCrwnCrTi9/4V229njCgUw53+Au6xWbZwHg==",
+      "type": "package",
+      "path": "xam.plugins.forms.progressring/0.1.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/MonoAndroid10/ProgressRing.Forms.Plugin.Android.dll",
+        "lib/MonoAndroid10/ProgressRing.Forms.Plugin.dll",
+        "lib/Xamarin.iOS10/ProgressRing.Forms.Plugin.dll",
+        "lib/Xamarin.iOS10/ProgressRing.Forms.Plugin.iOS.dll",
+        "lib/portable-net45+wp80+win8+wpa81/ProgressRing.Forms.Plugin.dll",
+        "xam.plugins.forms.progressring.0.1.2.nupkg.sha512",
+        "xam.plugins.forms.progressring.nuspec"
       ]
     },
     "Xamarin.AndroidX.Activity/1.2.4.1": {

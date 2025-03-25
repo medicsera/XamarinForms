@@ -8,6 +8,8 @@ public class MonoPackageManager_Resources {
 		"Microcharts.dll",
 		"Microcharts.Droid.dll",
 		"Microcharts.Forms.dll",
+		"ProgressRing.Forms.Plugin.Android.dll",
+		"ProgressRing.Forms.Plugin.dll",
 		"SkiaSharp.dll",
 		"SkiaSharp.Views.Android.dll",
 		"SkiaSharp.Views.Forms.dll",
