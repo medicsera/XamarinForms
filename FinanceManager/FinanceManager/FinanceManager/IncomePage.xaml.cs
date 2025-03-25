@@ -19,7 +19,7 @@ namespace FinanceManager
 
         public void OnAddIncomeClicked(object sender, EventArgs e)
         {
-            DisplayAlert("Добавление", "Открыта форма добавления дохода", "OK");
+            
         }
     };
 

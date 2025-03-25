@@ -44,7 +44,10 @@
                     <TapGestureRecognizer Tapped="OnAddIncomeClicked"/>
                 </Frame.GestureRecognizers>
             </Frame>
-            
+
+            <ContentView>
+                
+            </ContentView>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

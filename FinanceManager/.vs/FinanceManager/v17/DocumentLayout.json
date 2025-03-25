@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{40C65F85-068A-43D5-85A5-097A8E49F1DA}|FinanceManager\\FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\financemanager\\incomepage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40C65F85-068A-43D5-85A5-097A8E49F1DA}|FinanceManager\\FinanceManager\\FinanceManager.csproj|c:\\users\\anton\\documents\\github\\xamarinforms\\financemanager\\financemanager\\financemanager\\incomepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40C65F85-068A-43D5-85A5-097A8E49F1DA}|FinanceManager\\FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\financemanager\\incomepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{40C65F85-068A-43D5-85A5-097A8E49F1DA}|FinanceManager\\FinanceManager\\FinanceManager.csproj|c:\\users\\anton\\documents\\github\\xamarinforms\\financemanager\\financemanager\\financemanager\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C65F85-068A-43D5-85A5-097A8E49F1DA}|FinanceManager\\FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\financemanager\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{40C65F85-068A-43D5-85A5-097A8E49F1DA}|FinanceManager\\FinanceManager\\FinanceManager.csproj|c:\\users\\anton\\documents\\github\\xamarinforms\\financemanager\\financemanager\\financemanager\\homepage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
       "RelativeMoniker": "D:0:0:{40C65F85-068A-43D5-85A5-097A8E49F1DA}|FinanceManager\\FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\financemanager\\homepage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40C65F85-068A-43D5-85A5-097A8E49F1DA}|FinanceManager\\FinanceManager\\FinanceManager.csproj|c:\\users\\anton\\documents\\github\\xamarinforms\\financemanager\\financemanager\\financemanager\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40C65F85-068A-43D5-85A5-097A8E49F1DA}|FinanceManager\\FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\financemanager\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{40C65F85-068A-43D5-85A5-097A8E49F1DA}|FinanceManager\\FinanceManager\\FinanceManager.csproj|c:\\users\\anton\\documents\\github\\xamarinforms\\financemanager\\financemanager\\financemanager\\incomepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C65F85-068A-43D5-85A5-097A8E49F1DA}|FinanceManager\\FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\financemanager\\incomepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "FinanceManager\\FinanceManager\\IncomePage.xaml",
               "ToolTip": "C:\\Users\\anton\\Documents\\GitHub\\XamarinForms\\FinanceManager\\FinanceManager\\FinanceManager\\IncomePage.xaml",
               "RelativeToolTip": "FinanceManager\\FinanceManager\\IncomePage.xaml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAqwC4AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADAAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-03-25T12:26:08.95Z",
               "IsPinned": true,
@@ -52,13 +52,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "HomePage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\anton\\Documents\\GitHub\\XamarinForms\\FinanceManager\\FinanceManager\\FinanceManager\\HomePage.xaml.cs",
               "RelativeDocumentMoniker": "FinanceManager\\FinanceManager\\HomePage.xaml.cs",
               "ToolTip": "C:\\Users\\anton\\Documents\\GitHub\\XamarinForms\\FinanceManager\\FinanceManager\\FinanceManager\\HomePage.xaml.cs",
               "RelativeToolTip": "FinanceManager\\FinanceManager\\HomePage.xaml.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAlwDQAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAEIAAAAAAAAAAAD4vz4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-25T13:04:07.282Z",
               "EditorCaption": ""
@@ -71,20 +71,20 @@
               "RelativeDocumentMoniker": "FinanceManager\\FinanceManager\\HomePage.xaml",
               "ToolTip": "C:\\Users\\anton\\Documents\\GitHub\\XamarinForms\\FinanceManager\\FinanceManager\\FinanceManager\\HomePage.xaml",
               "RelativeToolTip": "FinanceManager\\FinanceManager\\HomePage.xaml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAB4AAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-03-25T12:26:53.034Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "IncomePage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\anton\\Documents\\GitHub\\XamarinForms\\FinanceManager\\FinanceManager\\FinanceManager\\IncomePage.xaml.cs",
               "RelativeDocumentMoniker": "FinanceManager\\FinanceManager\\IncomePage.xaml.cs",
               "ToolTip": "C:\\Users\\anton\\Documents\\GitHub\\XamarinForms\\FinanceManager\\FinanceManager\\FinanceManager\\IncomePage.xaml.cs",
               "RelativeToolTip": "FinanceManager\\FinanceManager\\IncomePage.xaml.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-25T12:26:18.069Z",
               "EditorCaption": ""

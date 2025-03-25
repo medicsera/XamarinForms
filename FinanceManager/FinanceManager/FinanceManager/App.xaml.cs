@@ -6,6 +6,20 @@ namespace FinanceManager
 {
     public partial class App : Application
     {
+
+        private static DB db;
+        public static DB Db
+        {
+            get
+            {
+                if (db == null)
+                {
+                    db = new DB("db.sqlite");
+                }
+                return db;
+            }
+        }
+
         public App()
         {
             InitializeComponent();
