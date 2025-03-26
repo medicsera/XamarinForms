@@ -67,3 +67,14 @@ C:\Users\anton\Documents\GitHub\XamarinForms\FinanceManager\FinanceManager\Finan
 C:\Users\anton\Documents\GitHub\XamarinForms\FinanceManager\FinanceManager\FinanceManager.iOS\bin\iPhone\Debug\SkiaSharp.dll
 C:\Users\anton\Documents\GitHub\XamarinForms\FinanceManager\FinanceManager\FinanceManager.iOS\bin\iPhone\Debug\SkiaSharp.Views.iOS.dll
 C:\Users\anton\Documents\GitHub\XamarinForms\FinanceManager\FinanceManager\FinanceManager.iOS\bin\iPhone\Debug\SkiaSharp.Views.Forms.dll
+C:\Users\anton\Documents\GitHub\XamarinForms\FinanceManager\FinanceManager\FinanceManager.iOS\bin\iPhone\Debug\Rg.Plugins.Popup.dll
+C:\Users\anton\Documents\GitHub\XamarinForms\FinanceManager\FinanceManager\FinanceManager.iOS\bin\iPhone\Debug\Rg.Plugins.Popup.pdb
+C:\Users\anton\Documents\GitHub\XamarinForms\FinanceManager\FinanceManager\FinanceManager.iOS\bin\iPhone\Debug\SQLite-net.dll
+C:\Users\anton\Documents\GitHub\XamarinForms\FinanceManager\FinanceManager\FinanceManager.iOS\bin\iPhone\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\anton\Documents\GitHub\XamarinForms\FinanceManager\FinanceManager\FinanceManager.iOS\bin\iPhone\Debug\SQLitePCLRaw.core.dll
+C:\Users\anton\Documents\GitHub\XamarinForms\FinanceManager\FinanceManager\FinanceManager.iOS\bin\iPhone\Debug\SQLitePCLRaw.provider.sqlite3.dll
+C:\Users\anton\Documents\GitHub\XamarinForms\FinanceManager\FinanceManager\FinanceManager.iOS\bin\iPhone\Debug\System.Buffers.dll
+C:\Users\anton\Documents\GitHub\XamarinForms\FinanceManager\FinanceManager\FinanceManager.iOS\bin\iPhone\Debug\System.Memory.dll
+C:\Users\anton\Documents\GitHub\XamarinForms\FinanceManager\FinanceManager\FinanceManager.iOS\bin\iPhone\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\anton\Documents\GitHub\XamarinForms\FinanceManager\FinanceManager\FinanceManager.iOS\bin\iPhone\Debug\ProgressRing.Forms.Plugin.dll
+C:\Users\anton\Documents\GitHub\XamarinForms\FinanceManager\FinanceManager\FinanceManager.iOS\bin\iPhone\Debug\ProgressRing.Forms.Plugin.iOS.dll

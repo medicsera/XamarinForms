@@ -4,9 +4,9 @@
              x:Class="WeatherApp.MainPage">
 
     <StackLayout BackgroundColor="WhiteSmoke" >
-        <StackLayout Background="DarkBlue">
+        <StackLayout Background="DarkBlue" Padding="20">
             <Label Text="Weather" HorizontalOptions="Center" Margin="0,20,0,20" FontSize="30" TextColor = "Aqua" FontAttributes="Bold,Italic"/>
-            <Image Margin="0,0,0,30" Source="https://autoconnex.ru/upload/medialibrary/e12/cpboulqlzbqsn6ht7cck2bobuqhclc6i/3-20220111_175912.png" />
+            <Image Margin="0,0,0,30"  Source="https://autoconnex.ru/upload/medialibrary/e12/cpboulqlzbqsn6ht7cck2bobuqhclc6i/3-20220111_175912.png" />
         </StackLayout>
         <RelativeLayout HorizontalOptions="Center">
             <Frame RelativeLayout.YConstraint="-20" BackgroundColor="PapayaWhip"  Padding="15" CornerRadius="15" >

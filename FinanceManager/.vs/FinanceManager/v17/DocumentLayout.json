@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\anton\\Documents\\GitHub\\XamarinForms\\FinanceManager\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{40C65F85-068A-43D5-85A5-097A8E49F1DA}|FinanceManager\\FinanceManager\\FinanceManager.csproj|c:\\users\\anton\\documents\\github\\xamarinforms\\financemanager\\financemanager\\financemanager\\incomepage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{40C65F85-068A-43D5-85A5-097A8E49F1DA}|FinanceManager\\FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\financemanager\\incomepage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{40C65F85-068A-43D5-85A5-097A8E49F1DA}|FinanceManager\\FinanceManager\\FinanceManager.csproj|c:\\users\\anton\\documents\\github\\xamarinforms\\financemanager\\financemanager\\financemanager\\incomepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40C65F85-068A-43D5-85A5-097A8E49F1DA}|FinanceManager\\FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\financemanager\\incomepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,48 +15,24 @@
       "RelativeMoniker": "D:0:0:{40C65F85-068A-43D5-85A5-097A8E49F1DA}|FinanceManager\\FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\financemanager\\incomemoney.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40C65F85-068A-43D5-85A5-097A8E49F1DA}|FinanceManager\\FinanceManager\\FinanceManager.csproj|c:\\users\\anton\\documents\\github\\xamarinforms\\financemanager\\financemanager\\financemanager\\incomepage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
-      "RelativeMoniker": "D:0:0:{40C65F85-068A-43D5-85A5-097A8E49F1DA}|FinanceManager\\FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\financemanager\\incomepage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40C65F85-068A-43D5-85A5-097A8E49F1DA}|FinanceManager\\FinanceManager\\FinanceManager.csproj|c:\\users\\anton\\documents\\github\\xamarinforms\\financemanager\\financemanager\\financemanager\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40C65F85-068A-43D5-85A5-097A8E49F1DA}|FinanceManager\\FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\financemanager\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40C65F85-068A-43D5-85A5-097A8E49F1DA}|FinanceManager\\FinanceManager\\FinanceManager.csproj|c:\\users\\anton\\documents\\github\\xamarinforms\\financemanager\\financemanager\\financemanager\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40C65F85-068A-43D5-85A5-097A8E49F1DA}|FinanceManager\\FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\financemanager\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40C65F85-068A-43D5-85A5-097A8E49F1DA}|FinanceManager\\FinanceManager\\FinanceManager.csproj|c:\\users\\anton\\documents\\github\\xamarinforms\\financemanager\\financemanager\\financemanager\\homepage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
-      "RelativeMoniker": "D:0:0:{40C65F85-068A-43D5-85A5-097A8E49F1DA}|FinanceManager\\FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\financemanager\\homepage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40C65F85-068A-43D5-85A5-097A8E49F1DA}|FinanceManager\\FinanceManager\\FinanceManager.csproj|c:\\users\\anton\\documents\\github\\xamarinforms\\financemanager\\financemanager\\financemanager\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
-      "RelativeMoniker": "D:0:0:{40C65F85-068A-43D5-85A5-097A8E49F1DA}|FinanceManager\\FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\financemanager\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{40C65F85-068A-43D5-85A5-097A8E49F1DA}|FinanceManager\\FinanceManager\\FinanceManager.csproj|c:\\users\\anton\\documents\\github\\xamarinforms\\financemanager\\financemanager\\financemanager\\addcateforyincomepopup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40C65F85-068A-43D5-85A5-097A8E49F1DA}|FinanceManager\\FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\financemanager\\addcateforyincomepopup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40C65F85-068A-43D5-85A5-097A8E49F1DA}|FinanceManager\\FinanceManager\\FinanceManager.csproj|c:\\users\\anton\\documents\\github\\xamarinforms\\financemanager\\financemanager\\financemanager\\addcateforyincomepopup.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
-      "RelativeMoniker": "D:0:0:{40C65F85-068A-43D5-85A5-097A8E49F1DA}|FinanceManager\\FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\financemanager\\addcateforyincomepopup.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40C65F85-068A-43D5-85A5-097A8E49F1DA}|FinanceManager\\FinanceManager\\FinanceManager.csproj|c:\\users\\anton\\documents\\github\\xamarinforms\\financemanager\\financemanager\\financemanager\\financemanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{40C65F85-068A-43D5-85A5-097A8E49F1DA}|FinanceManager\\FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\financemanager\\financemanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40C65F85-068A-43D5-85A5-097A8E49F1DA}|FinanceManager\\FinanceManager\\FinanceManager.csproj|c:\\users\\anton\\documents\\github\\xamarinforms\\financemanager\\financemanager\\financemanager\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40C65F85-068A-43D5-85A5-097A8E49F1DA}|FinanceManager\\FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\financemanager\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{40C65F85-068A-43D5-85A5-097A8E49F1DA}|FinanceManager\\FinanceManager\\FinanceManager.csproj|c:\\users\\anton\\documents\\github\\xamarinforms\\financemanager\\financemanager\\financemanager\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40C65F85-068A-43D5-85A5-097A8E49F1DA}|FinanceManager\\FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\financemanager\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{40C65F85-068A-43D5-85A5-097A8E49F1DA}|FinanceManager\\FinanceManager\\FinanceManager.csproj|c:\\users\\anton\\documents\\github\\xamarinforms\\financemanager\\financemanager\\financemanager\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C65F85-068A-43D5-85A5-097A8E49F1DA}|FinanceManager\\FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\financemanager\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{40C65F85-068A-43D5-85A5-097A8E49F1DA}|FinanceManager\\FinanceManager\\FinanceManager.csproj|c:\\users\\anton\\documents\\github\\xamarinforms\\financemanager\\financemanager\\financemanager\\incomecateforydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40C65F85-068A-43D5-85A5-097A8E49F1DA}|FinanceManager\\FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\financemanager\\incomecateforydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C65F85-068A-43D5-85A5-097A8E49F1DA}|FinanceManager\\FinanceManager\\FinanceManager.csproj|c:\\users\\anton\\documents\\github\\xamarinforms\\financemanager\\financemanager\\financemanager\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C65F85-068A-43D5-85A5-097A8E49F1DA}|FinanceManager\\FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\financemanager\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,22 +42,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 6,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IncomePage.xaml",
-              "DocumentMoniker": "C:\\Users\\anton\\Documents\\GitHub\\XamarinForms\\FinanceManager\\FinanceManager\\FinanceManager\\IncomePage.xaml",
-              "RelativeDocumentMoniker": "FinanceManager\\FinanceManager\\IncomePage.xaml",
-              "ToolTip": "C:\\Users\\anton\\Documents\\GitHub\\XamarinForms\\FinanceManager\\FinanceManager\\FinanceManager\\IncomePage.xaml",
-              "RelativeToolTip": "FinanceManager\\FinanceManager\\IncomePage.xaml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAADAAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-25T12:26:08.95Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
@@ -88,150 +54,107 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\anton\\Documents\\GitHub\\XamarinForms\\FinanceManager\\FinanceManager\\FinanceManager\\MainPage.xaml.cs",
-              "RelativeDocumentMoniker": "FinanceManager\\FinanceManager\\MainPage.xaml.cs",
-              "ToolTip": "C:\\Users\\anton\\Documents\\GitHub\\XamarinForms\\FinanceManager\\FinanceManager\\FinanceManager\\MainPage.xaml.cs",
-              "RelativeToolTip": "FinanceManager\\FinanceManager\\MainPage.xaml.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T06:21:56.94Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Users\\anton\\Documents\\GitHub\\XamarinForms\\FinanceManager\\FinanceManager\\FinanceManager\\MainPage.xaml",
-              "RelativeDocumentMoniker": "FinanceManager\\FinanceManager\\MainPage.xaml",
-              "ToolTip": "C:\\Users\\anton\\Documents\\GitHub\\XamarinForms\\FinanceManager\\FinanceManager\\FinanceManager\\MainPage.xaml",
-              "RelativeToolTip": "FinanceManager\\FinanceManager\\MainPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-26T06:21:28.308Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 4,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\Users\\anton\\Documents\\GitHub\\XamarinForms\\FinanceManager\\FinanceManager\\FinanceManager\\App.xaml.cs",
               "RelativeDocumentMoniker": "FinanceManager\\FinanceManager\\App.xaml.cs",
               "ToolTip": "C:\\Users\\anton\\Documents\\GitHub\\XamarinForms\\FinanceManager\\FinanceManager\\FinanceManager\\App.xaml.cs",
               "RelativeToolTip": "FinanceManager\\FinanceManager\\App.xaml.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAwAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T05:59:57.349Z"
+              "WhenOpened": "2025-03-26T05:59:57.349Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "IncomeMoney.cs",
               "DocumentMoniker": "C:\\Users\\anton\\Documents\\GitHub\\XamarinForms\\FinanceManager\\FinanceManager\\FinanceManager\\IncomeMoney.cs",
               "RelativeDocumentMoniker": "FinanceManager\\FinanceManager\\IncomeMoney.cs",
               "ToolTip": "C:\\Users\\anton\\Documents\\GitHub\\XamarinForms\\FinanceManager\\FinanceManager\\FinanceManager\\IncomeMoney.cs",
               "RelativeToolTip": "FinanceManager\\FinanceManager\\IncomeMoney.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-26T05:55:44.501Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 5,
               "Title": "DB.cs",
               "DocumentMoniker": "C:\\Users\\anton\\Documents\\GitHub\\XamarinForms\\FinanceManager\\FinanceManager\\FinanceManager\\DB.cs",
               "RelativeDocumentMoniker": "FinanceManager\\FinanceManager\\DB.cs",
               "ToolTip": "C:\\Users\\anton\\Documents\\GitHub\\XamarinForms\\FinanceManager\\FinanceManager\\FinanceManager\\DB.cs",
               "RelativeToolTip": "FinanceManager\\FinanceManager\\DB.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAwwCkAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCIAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T05:52:24.122Z"
+              "WhenOpened": "2025-03-26T05:52:24.122Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "AddCateforyIncomePopup.xaml.cs",
               "DocumentMoniker": "C:\\Users\\anton\\Documents\\GitHub\\XamarinForms\\FinanceManager\\FinanceManager\\FinanceManager\\AddCateforyIncomePopup.xaml.cs",
               "RelativeDocumentMoniker": "FinanceManager\\FinanceManager\\AddCateforyIncomePopup.xaml.cs",
               "ToolTip": "C:\\Users\\anton\\Documents\\GitHub\\XamarinForms\\FinanceManager\\FinanceManager\\FinanceManager\\AddCateforyIncomePopup.xaml.cs",
               "RelativeToolTip": "FinanceManager\\FinanceManager\\AddCateforyIncomePopup.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA6wCMAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T05:42:42.131Z"
+              "WhenOpened": "2025-03-26T05:42:42.131Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "IncomePage.xaml",
+              "DocumentMoniker": "C:\\Users\\anton\\Documents\\GitHub\\XamarinForms\\FinanceManager\\FinanceManager\\FinanceManager\\IncomePage.xaml",
+              "RelativeDocumentMoniker": "FinanceManager\\FinanceManager\\IncomePage.xaml",
+              "ToolTip": "C:\\Users\\anton\\Documents\\GitHub\\XamarinForms\\FinanceManager\\FinanceManager\\FinanceManager\\IncomePage.xaml",
+              "RelativeToolTip": "FinanceManager\\FinanceManager\\IncomePage.xaml",
+              "ViewState": "AgIAACAAAAAAAAAAAAAMwDoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-26T14:02:07.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "IncomePage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\anton\\Documents\\GitHub\\XamarinForms\\FinanceManager\\FinanceManager\\FinanceManager\\IncomePage.xaml.cs",
               "RelativeDocumentMoniker": "FinanceManager\\FinanceManager\\IncomePage.xaml.cs",
               "ToolTip": "C:\\Users\\anton\\Documents\\GitHub\\XamarinForms\\FinanceManager\\FinanceManager\\FinanceManager\\IncomePage.xaml.cs",
               "RelativeToolTip": "FinanceManager\\FinanceManager\\IncomePage.xaml.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwBMAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-25T12:26:18.069Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AddCateforyIncomePopup.xaml",
-              "DocumentMoniker": "C:\\Users\\anton\\Documents\\GitHub\\XamarinForms\\FinanceManager\\FinanceManager\\FinanceManager\\AddCateforyIncomePopup.xaml",
-              "RelativeDocumentMoniker": "FinanceManager\\FinanceManager\\AddCateforyIncomePopup.xaml",
-              "ToolTip": "C:\\Users\\anton\\Documents\\GitHub\\XamarinForms\\FinanceManager\\FinanceManager\\FinanceManager\\AddCateforyIncomePopup.xaml",
-              "RelativeToolTip": "FinanceManager\\FinanceManager\\AddCateforyIncomePopup.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-26T05:37:08.554Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 6,
               "Title": "IncomeCateforyDB.cs",
               "DocumentMoniker": "C:\\Users\\anton\\Documents\\GitHub\\XamarinForms\\FinanceManager\\FinanceManager\\FinanceManager\\IncomeCateforyDB.cs",
               "RelativeDocumentMoniker": "FinanceManager\\FinanceManager\\IncomeCateforyDB.cs",
               "ToolTip": "C:\\Users\\anton\\Documents\\GitHub\\XamarinForms\\FinanceManager\\FinanceManager\\FinanceManager\\IncomeCateforyDB.cs",
               "RelativeToolTip": "FinanceManager\\FinanceManager\\IncomeCateforyDB.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T05:48:28.661Z"
+              "WhenOpened": "2025-03-26T05:48:28.661Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "HomePage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\anton\\Documents\\GitHub\\XamarinForms\\FinanceManager\\FinanceManager\\FinanceManager\\HomePage.xaml.cs",
               "RelativeDocumentMoniker": "FinanceManager\\FinanceManager\\HomePage.xaml.cs",
               "ToolTip": "C:\\Users\\anton\\Documents\\GitHub\\XamarinForms\\FinanceManager\\FinanceManager\\FinanceManager\\HomePage.xaml.cs",
               "RelativeToolTip": "FinanceManager\\FinanceManager\\HomePage.xaml.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAD4AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwCMAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T13:04:07.282Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "HomePage.xaml",
-              "DocumentMoniker": "C:\\Users\\anton\\Documents\\GitHub\\XamarinForms\\FinanceManager\\FinanceManager\\FinanceManager\\HomePage.xaml",
-              "RelativeDocumentMoniker": "FinanceManager\\FinanceManager\\HomePage.xaml",
-              "ToolTip": "C:\\Users\\anton\\Documents\\GitHub\\XamarinForms\\FinanceManager\\FinanceManager\\FinanceManager\\HomePage.xaml",
-              "RelativeToolTip": "FinanceManager\\FinanceManager\\HomePage.xaml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-25T12:26:53.034Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "FinanceManager.csproj",
-              "DocumentMoniker": "C:\\Users\\anton\\Documents\\GitHub\\XamarinForms\\FinanceManager\\FinanceManager\\FinanceManager\\FinanceManager.csproj",
-              "RelativeDocumentMoniker": "FinanceManager\\FinanceManager\\FinanceManager.csproj",
-              "ToolTip": "C:\\Users\\anton\\Documents\\GitHub\\XamarinForms\\FinanceManager\\FinanceManager\\FinanceManager\\FinanceManager.csproj",
-              "RelativeToolTip": "FinanceManager\\FinanceManager\\FinanceManager.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-26T06:09:13.849Z"
+              "WhenOpened": "2025-03-25T13:04:07.282Z",
+              "EditorCaption": ""
             }
           ]
         }

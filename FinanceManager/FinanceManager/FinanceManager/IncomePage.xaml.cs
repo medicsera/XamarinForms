@@ -17,9 +17,28 @@ namespace FinanceManager
 			InitializeComponent ();
 		}
 
-        public void OnAddIncomeClicked(object sender, EventArgs e)
+        protected override void OnAppearing()
         {
-            
+			ShowIncomeCategory();
+        }
+
+		public void ShowIncomeCategory()
+		{
+            incomeCategoryCollection.ItemsSource = App.IncomeCategory.GetIncomeCategory();
+        }
+
+        public async void OnAddIncomeClicked(object sender, EventArgs e)
+        {
+			var frame = (Frame)sender;
+			await frame.ScaleTo(0.95, 100);
+			await frame.ScaleTo(1,100);
+
+			var popup = new AddCateforyIncomePopup();
+			await Navigation.PushModalAsync(new NavigationPage(popup)
+			{
+				BarBackgroundColor = Color.Transparent,
+				BarTextColor = Color.Transparent,
+			});
         }
     };
 

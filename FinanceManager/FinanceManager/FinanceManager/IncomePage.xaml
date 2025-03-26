@@ -45,9 +45,20 @@
                 </Frame.GestureRecognizers>
             </Frame>
 
-            <ContentView>
+            <CollectionView x:Name="incomeCategoryCollection">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <StackLayout WidthRequest="300" HeightRequest="70" Margin="0,13">
+                   <!--         <Label Margin="0,0,90,0" Text="5004" HorizontalOptions="End"/> -->
+                            <Frame Margin="0,0,40,0" CornerRadius="20" WidthRequest="290" HeightRequest="30" HorizontalOptions="Center" BackgroundColor="#ADB0E3" >
+                                <Label Text="{Binding income_category}" WidthRequest="50" FontSize="21" TextColor="Black" />
+                               
+                            </Frame>
+                        </StackLayout>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
                 
-            </ContentView>
+            </CollectionView>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

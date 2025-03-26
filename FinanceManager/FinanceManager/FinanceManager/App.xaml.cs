@@ -1,6 +1,7 @@
 ﻿using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
+using System.IO;
 
 namespace FinanceManager
 {
@@ -16,7 +17,7 @@ namespace FinanceManager
             {
                 if (incomeMoney == null)
                 {
-                    incomeMoney = new DB_IncomeMoney("db_income_money.sqlite");
+                    incomeMoney = new DB_IncomeMoney(Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData), "db_income_money.sqlite3"));
                 }
                 return incomeMoney;
             }
@@ -28,7 +29,7 @@ namespace FinanceManager
             {
                 if (incomeCategory == null)
                 {
-                    incomeCategory = new DB_IncomeCategory("db_income_category.sqlite");
+                    incomeCategory = new DB_IncomeCategory(Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData), "db_income_category.sqlite3"));
                 }
                 return incomeCategory;
             }

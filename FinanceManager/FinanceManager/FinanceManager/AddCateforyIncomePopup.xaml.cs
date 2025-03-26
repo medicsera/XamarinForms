@@ -33,8 +33,9 @@ namespace FinanceManager
 			};
 
 			App.IncomeCategory.SaveIncomeCategory(incomeCategory);
+			
 
-			income_category_name.Text = " ";
+            income_category_name.Text = " ";
         }
 
 		private async void OnCancelClicked(object sender, EventArgs e)
