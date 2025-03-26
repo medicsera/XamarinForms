@@ -7,16 +7,30 @@ namespace FinanceManager
     public partial class App : Application
     {
 
-        private static DB db;
-        public static DB Db
+        private static DB_IncomeMoney incomeMoney;
+
+        private static DB_IncomeCategory incomeCategory;
+        public static DB_IncomeMoney IncomeMoney
         {
             get
             {
-                if (db == null)
+                if (incomeMoney == null)
                 {
-                    db = new DB("db.sqlite");
+                    incomeMoney = new DB_IncomeMoney("db_income_money.sqlite");
                 }
-                return db;
+                return incomeMoney;
+            }
+        }
+
+        public static DB_IncomeCategory IncomeCategory
+        {
+            get
+            {
+                if (incomeCategory == null)
+                {
+                    incomeCategory = new DB_IncomeCategory("db_income_category.sqlite");
+                }
+                return incomeCategory;
             }
         }
 

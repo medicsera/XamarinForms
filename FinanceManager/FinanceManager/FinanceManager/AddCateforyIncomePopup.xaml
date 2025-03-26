@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FinanceManager.AddCateforyIncomePopup"
+             BackgroundColor="#80000000"
+             Title="Добавить категорию доходов">
+
+    <Frame CornerRadius="15" Padding="20" HorizontalOptions="Center" VerticalOptions="Center" WidthRequest="300" BackgroundColor="White">
+
+        <StackLayout Spacing="15">
+
+            <Label Text="Добавить категорию дохода" FontSize="18" FontAttributes="Bold"/>
+            <Entry x:Name="income_category_name" Placeholder="Категория"/>
+
+            <Grid ColumnSpacing="15">
+                
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <Button Text="Отмена" BackgroundColor="Red" Clicked="OnCancelClicked" Grid.Column="0" TextColor="White"/>
+                <Button Text="Добавить" BackgroundColor="SpringGreen" Clicked="OnAddClicked" Grid.Column="1" TextColor="Black"/>
+
+            </Grid>
+            
+            
+        </StackLayout>
+        
+    </Frame>
+    
+    
+</ContentPage>

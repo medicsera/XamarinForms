@@ -21,3 +21,4 @@ C:\Users\anton\Documents\GitHub\XamarinForms\FinanceManager\FinanceManager\Finan
 C:\Users\anton\Documents\GitHub\XamarinForms\FinanceManager\FinanceManager\FinanceManager\obj\Debug\netstandard2.0\AnalyticsPage.xaml.g.cs
 C:\Users\anton\Documents\GitHub\XamarinForms\FinanceManager\FinanceManager\FinanceManager\obj\Debug\netstandard2.0\PurposesPage.xaml.g.cs
 C:\Users\anton\Documents\GitHub\XamarinForms\FinanceManager\FinanceManager\FinanceManager\obj\Debug\netstandard2.0\RemindersPage.xaml.g.cs
+C:\Users\anton\Documents\GitHub\XamarinForms\FinanceManager\FinanceManager\FinanceManager\obj\Debug\netstandard2.0\AddCateforyIncomePopup.xaml.g.cs
