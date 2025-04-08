@@ -32,13 +32,16 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Compile Update="AddCategoryIncomePopup.xaml.cs">
+      <DependentUpon>AddCategoryIncomePopup.xaml</DependentUpon>
+    </Compile>
     <Compile Update="FlyoutMenupage.xaml.cs">
       <DependentUpon>FlyoutMenuPage.xaml</DependentUpon>
     </Compile>
   </ItemGroup>
 
   <ItemGroup>
-    <EmbeddedResource Update="AddCateforyIncomePopup.xaml">
+    <EmbeddedResource Update="AddCategoryIncomePopup.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
     <EmbeddedResource Update="AnalyticsPage.xaml">

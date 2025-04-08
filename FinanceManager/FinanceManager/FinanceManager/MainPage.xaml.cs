@@ -14,6 +14,7 @@ namespace FinanceManager
         {
             InitializeComponent();
             flyout.ListView.ItemSelected += OnSelectedItem;
+            Title = string.Empty;
         }
 
         private void OnSelectedItem(object sender, SelectedItemChangedEventArgs e)

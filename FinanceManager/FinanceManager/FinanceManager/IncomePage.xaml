@@ -1,11 +1,19 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+﻿<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              Title="Доходы"
-             x:Class="FinanceManager.IncomePage">
+             x:Class="FinanceManager.IncomePage"
+             xmlns:viewModels="clr-namespace:FinanceManager.ViewModels">
     <ContentPage.Content>
         <StackLayout BackgroundColor="#4968FF">
-            <Label Margin="0,20,0,0" Text="Список доходов" TextColor="White" FontAttributes="Italic" FontSize="30" HorizontalOptions="Center"/>
+            <!-- Заголовок -->
+            <Label Margin="0,20,0,0"
+                   Text="Список доходов"
+                   TextColor="White"
+                   FontAttributes="Italic"
+                   FontSize="30"
+                   HorizontalOptions="Center"/>
+
+            <!-- Кнопка добавления категории -->
             <Frame 
                 BackgroundColor="#ADB0E3"
                 BorderColor="Transparent"
@@ -15,10 +23,13 @@
                 HorizontalOptions="Start"
                 Margin="20">
                 
-
-                <StackLayout Orientation="Horizontal" Spacing="10" HeightRequest="50" WidthRequest="300" BackgroundColor="#ADB0E3">
+                <StackLayout Orientation="Horizontal" 
+                             Spacing="10"
+                             HeightRequest="50"
+                             WidthRequest="300"
+                             BackgroundColor="#ADB0E3">
                     <Label 
-                        Text="Добавить доход         "
+                        Text="Добавить категорию"
                         TextColor="Black"
                         FontSize="21"
                         VerticalOptions="Center"
@@ -35,29 +46,53 @@
                             FontSize="25"
                             TextColor="Black"
                             HorizontalOptions="Center"
-                            VerticalOptions="Center"
-                            />
+                            VerticalOptions="Center"/>
                     </Frame>
-                    
                 </StackLayout>
                 <Frame.GestureRecognizers>
                     <TapGestureRecognizer Tapped="OnAddIncomeClicked"/>
                 </Frame.GestureRecognizers>
             </Frame>
 
-            <CollectionView x:Name="incomeCategoryCollection">
+            <!-- Список категорий -->
+            <CollectionView ItemsSource="{Binding Categories}">
                 <CollectionView.ItemTemplate>
                     <DataTemplate>
-                        <StackLayout WidthRequest="300" HeightRequest="70" Margin="0,13">
-                   <!--         <Label Margin="0,0,90,0" Text="5004" HorizontalOptions="End"/> -->
-                            <Frame Margin="0,0,40,0" CornerRadius="20" WidthRequest="290" HeightRequest="30" HorizontalOptions="Center" BackgroundColor="#ADB0E3" >
-                                <Label Text="{Binding income_category}" WidthRequest="50" FontSize="21" TextColor="Black" />
-                               
+                        <Grid ColumnDefinitions="*, Auto" 
+                              Padding="20,10"
+                              Margin="0,0,20,0"
+                              HeightRequest="80"
+                              >
+
+                            <!-- Категория -->
+                            <Frame Grid.Column="0"
+                                   CornerRadius="20"
+                                   BackgroundColor="#ADB0E3"
+                                   Padding="15"
+                                   HeightRequest="40"
+                                   VerticalOptions="Center"
+>
+                                   
+                                <Label Text="{Binding income_category}" 
+                                       FontSize="16"
+                                       TextColor="Black"/>
                             </Frame>
-                        </StackLayout>
+
+                            <!-- Кнопка удаления -->
+                            <Button Grid.Column="1"
+                                    Padding="5,0,0,0"
+                                    Text="✕"
+                                    FontSize="25"
+                                    TextColor="Red"
+                                    BackgroundColor="Transparent"
+                                    WidthRequest="36"
+                                    HeightRequest="40"
+                                    CornerRadius="20"
+                                    Command="{Binding Source={RelativeSource AncestorType={x:Type viewModels:IncomeViewModel}}, Path=DeleteCategoryCommand}"
+                                    CommandParameter="{Binding .}"/>
+                        </Grid>
                     </DataTemplate>
                 </CollectionView.ItemTemplate>
-                
             </CollectionView>
         </StackLayout>
     </ContentPage.Content>

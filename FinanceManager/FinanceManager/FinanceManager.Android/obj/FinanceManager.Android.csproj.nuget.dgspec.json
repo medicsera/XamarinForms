@@ -16,7 +16,7 @@
         "skipContentFileWrite": true,
         "UsingMicrosoftNETSdk": false,
         "fallbackFolders": [
-          "D:\\Visual Studio Community\\Components\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\anton\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -78,7 +78,7 @@
         "outputPath": "C:\\Users\\anton\\Documents\\GitHub\\XamarinForms\\FinanceManager\\FinanceManager\\FinanceManager\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\Visual Studio Community\\Components\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\anton\\AppData\\Roaming\\NuGet\\NuGet.Config",

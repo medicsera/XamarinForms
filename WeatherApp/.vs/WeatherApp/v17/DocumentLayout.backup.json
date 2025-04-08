@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\anton\\Documents\\GitHub\\XamarinForms\\WeatherApp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBDD58DF-DFFF-4738-B558-C22675726823}|WeatherApp\\WeatherApp.csproj|c:\\users\\anton\\documents\\github\\xamarinforms\\weatherapp\\weatherapp\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{BBDD58DF-DFFF-4738-B558-C22675726823}|WeatherApp\\WeatherApp.csproj|solutionrelative:weatherapp\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +23,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\anton\\Documents\\GitHub\\XamarinForms\\WeatherApp\\WeatherApp\\MainPage.xaml",
+              "RelativeDocumentMoniker": "WeatherApp\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\anton\\Documents\\GitHub\\XamarinForms\\WeatherApp\\WeatherApp\\MainPage.xaml",
+              "RelativeToolTip": "WeatherApp\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-26T11:14:02.365Z",
+              "EditorCaption": ""
             }
           ]
         }

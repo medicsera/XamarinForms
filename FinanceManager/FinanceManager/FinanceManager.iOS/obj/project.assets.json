@@ -2874,7 +2874,7 @@
   },
   "packageFolders": {
     "C:\\Users\\anton\\.nuget\\packages\\": {},
-    "D:\\Visual Studio Community\\Components\\NuGetPackages": {}
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
@@ -2888,7 +2888,7 @@
       "skipContentFileWrite": true,
       "UsingMicrosoftNETSdk": false,
       "fallbackFolders": [
-        "D:\\Visual Studio Community\\Components\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
         "C:\\Users\\anton\\AppData\\Roaming\\NuGet\\NuGet.Config",

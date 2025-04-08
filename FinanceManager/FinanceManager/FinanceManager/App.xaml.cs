@@ -1,37 +1,25 @@
 ﻿using System;
+using System.IO;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
-using System.IO;
 
 namespace FinanceManager
 {
     public partial class App : Application
     {
-
-        private static DB_IncomeMoney incomeMoney;
-
-        private static DB_IncomeCategory incomeCategory;
-        public static DB_IncomeMoney IncomeMoney
+        private static DatabaseRepository _database;
+        public static DatabaseRepository Database
         {
             get
             {
-                if (incomeMoney == null)
+                if (_database == null)
                 {
-                    incomeMoney = new DB_IncomeMoney(Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData), "db_income_money.sqlite3"));
+                    var dbPath = Path.Combine(
+                        Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData),
+                        "finance.db3");
+                    _database = new DatabaseRepository(dbPath);
                 }
-                return incomeMoney;
-            }
-        }
-
-        public static DB_IncomeCategory IncomeCategory
-        {
-            get
-            {
-                if (incomeCategory == null)
-                {
-                    incomeCategory = new DB_IncomeCategory(Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData), "db_income_category.sqlite3"));
-                }
-                return incomeCategory;
+                return _database;
             }
         }
 
@@ -39,19 +27,27 @@ namespace FinanceManager
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            // Инициализация главной страницы
+            MainPage = new NavigationPage(new MainPage()) { };
+            
         }
 
         protected override void OnStart()
         {
+            // Здесь можно добавить код для выполнения при запуске приложения
+            // Например, проверку обновлений или загрузку начальных данных
         }
 
         protected override void OnSleep()
         {
+            // Код для выполнения при сворачивании приложения
+            // Например, сохранение состояния
         }
 
         protected override void OnResume()
         {
+            // Код для выполнения при возобновлении работы приложения
+            // Например, обновление данных
         }
     }
 }
